@@ -1,10 +1,10 @@
 
-** Under heavy development, this will change.. you have been warned! **
-
 # Pekyll
 
 A very simple tool to generate static websites from sources in different
 formats, inspired by [Hakyll](http://jaspervdj.be/hakyll/).
+
+** Under heavy development, things will change.. you have been warned! **
 
 ## Synopsis
 
