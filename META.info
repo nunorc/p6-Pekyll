@@ -1,6 +1,7 @@
 {
   "name"        : "Pekyll",
   "version"     : "*",
+  "author"      : "github:nunorc",
   "description" : "A static website generator.",
   "provides": {
     "Pekyll"            : "lib/Pekyll.pm6",
