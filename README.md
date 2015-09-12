@@ -2,7 +2,8 @@
 # Pekyll
 
 A very simple tool to generate static websites from sources in different
-formats, inspired by [Hakyll](http://jaspervdj.be/hakyll/).
+formats, inspired by [Hakyll](http://jaspervdj.be/hakyll/), written
+in [Perl 6](http://perl6.org/).
 
 **Under heavy development, things will change.. you have been warned!**
 
