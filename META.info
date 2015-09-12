@@ -8,5 +8,5 @@
     "Pekyll::Compilers" : "lib/Pekyll/Compilers.pm6"
   },
   "depends"     : [ "Template6", "Syndication" ],
-  "source-url"  : "git://github.com/nunorc/p6-Pekyll"
+  "source-url"  : "git://github.com/nunorc/p6-Pekyll.git"
 }
