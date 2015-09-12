@@ -41,5 +41,5 @@ feeds, or special page.
 
 ## Example
 
-For a more complex example visit this [repository](http://github.com/APPP/perl.pt]).
+For a more complex example visit this [repository](http://github.com/APPP/perl.pt).
 
